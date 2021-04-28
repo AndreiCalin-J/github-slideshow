@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I hope I will never have to use GitHub every again :)
 Use the left arrow to go back!
